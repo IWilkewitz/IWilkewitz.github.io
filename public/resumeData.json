@@ -1,0 +1,173 @@
+{
+  "main": {
+    "name":"Ian Wilkewitz",
+    "description":"Hello! I am a computer science student at Grand Valley State University currently searching for an internship for the summer of 2021. This website serves as my portfolio and alternative resume",
+    "image":"profilepic.jpg",
+    "bio":"Computers have always been a major part of my life, one of my earliest memories (besides being devastated that my Spider-man pajamas didn't give me superpowers,) is getting a grip on the mouse and moving it around the desktop. My passion for computing has lead me to study computer science and expand my knowledge of using technology creatively, recreationally, and professionally everyday.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "IanWilkewitz@yahoo.com",
+    "phone": "734-672-1285",
+    "github":"https://github.com/IWilkewitz",
+    "project":"https://www.linkedin.com/in/ianwi/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Grand Rapids / Detroit",
+      "state":"Michigan",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://www.dropbox.com/s/f73f1lrurlobpmx/IanWilkewitz-Resume-Feb2021.pdf?dl=0",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Grand Valley State University",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"2018 - 2021 (Expected)",
+        "description":"Experience includes time spent studying abroad in Switzerland during the summer of 2019.\nRelevant coursework includes: Java Based Object Oriented Programming | Data Structures and Algorithms | Database Design | Data Mining/Visualization | Web Application Development"
+      },
+      {
+        "school":"Schoolcraft College",
+        "degree":"One Year Certificate in Computer Science",
+        "graduated":"2015-2017",
+        "description":"Certificate completed through vocational program while dual-enrolled in high school.\nCompleted the Michigan Transfer Agreement before transferring to GVSU."
+      }
+    ],
+    "work":[
+      {
+        "company":"Southgate YMCA",
+        "title":"Member Experience Associate",
+        "years":"Summer 2019",
+        "description":"Provided customer service excellence while assisting with communication across multiple departments in a fast paced environment."
+      },
+      {
+        "company":"Southgate YMCA",
+        "title":"Splash Park Attendant",
+        "years":"Summer 2018",
+        "description":"Assisted with computer workstation set-up. Trusted with independent work and money handling/transfer."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Twitter Posting Bot",
+        "category":"Personal project created in Python. A Twitter account that automatically posts images with captions at predetermined times.",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://twitter.com/FredMount2"
+      },
+      {
+        "title":"Simple Jeopardy Game",
+        "category":"School assignment related to using API data and TypeScript. Allows the user to generate a table of random Jeopardy questions or explore all the questions in a category.",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://subdued-branch.surge.sh/"
+      },
+      {
+        "title":"Capstone Sponsered by Byrne Electrical",
+        "category":"Senior capstone project. Worked with large manufacturing databases to create visualizations and provide insight.",
+        "image":"original-thai-food.jpg",
+        "url":"https://www.byrne.com/"
+      },
+      {
+        "title":"Web Scraper",
+        "category":"Study abroad project created in Python. Collect headlines from a news website, grouping them into categories based on keywords. Displays pie chart of the count of each category.",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/IWilkewitz/2019WebScraper/blob/main/Web_Crawler.py"
+      }
+    ]
+  },
+  "photos":{
+    "projects": [
+      {
+        "image":"swiss1.jpg",
+        "url":"https://i.imgur.com/8uSjiS8.jpg"
+      },
+      {
+        "image":"swiss2.jpg",
+        "url":"https://i.imgur.com/txRe14w.jpg"
+      },
+      {
+        "image":"swiss3.jpg",
+        "url":"https://i.imgur.com/sT0QFUa.jpg"
+      },
+      {
+        "image":"swiss4.jpg",
+        "url":"https://i.imgur.com/c5DAVmX.jpg"
+      },
+      {
+        "image":"db1.jpg",
+        "url":"https://i.imgur.com/MZILagr.jpg"
+      },
+      {
+        "image":"db2.jpg",
+        "url":"https://i.imgur.com/Eh73Fio.jpg"
+      },
+      {
+        "image":"db3.jpg",
+        "url":"https://i.imgur.com/Y8rJ4kN.jpg"
+      },
+      {
+        "image":"db4.jpg",
+        "url":"https://i.imgur.com/C5aZNwg.jpg"
+      }
+    ]
+  }
+}
